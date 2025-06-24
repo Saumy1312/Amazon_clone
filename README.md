@@ -1,11 +1,9 @@
-![image](https://github.com/user-attachments/assets/717e815e-2ab1-4b90-9c25-a73f599f4445)# 🛒 Amazon Clone
-
 A front-end Amazon clone website built using **HTML**, **CSS**, and **JavaScript**. This project replicates the core layout and basic functionality of the Amazon home page, including navigation, search, dropdown menu, and a simulated cart system.
 
 ---
 
 ## 📸 Preview
-
+![image](https://github.com/user-attachments/assets/717e815e-2ab1-4b90-9c25-a73f599f4445)# 🛒 Amazon Clone
 ![Screenshot 2025-06-24 231422](https://github.com/user-attachments/assets/49ad380d-3154-4ea1-8f1a-fd237e768d07)
 ![Screenshot 2025-06-24 231444](https://github.com/user-attachments/assets/67d0aaa9-5678-40c1-8ef4-bdb91f601e92)
 ![Screenshot 2025-06-24 231458](https://github.com/user-attachments/assets/4c9555b1-276e-4b39-9d1b-3f3a913a9a94)
