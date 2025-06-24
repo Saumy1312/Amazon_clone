@@ -1,4 +1,7 @@
 🛒 Amazon Clone
+
+---
+
 A front-end Amazon clone website built using **HTML**, **CSS**, and **JavaScript**. This project replicates the core layout and basic functionality of the Amazon home page, including navigation, search, dropdown menu, and a simulated cart system.
 
 ---
